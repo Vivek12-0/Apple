@@ -41,7 +41,7 @@ API_KEY = getenv("API_KEY", "30DxNexGenBots5b668a")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Vivek12-0/s",
+    "https://github.com/Vivek12-0/Apple",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
